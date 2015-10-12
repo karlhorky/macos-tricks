@@ -6,4 +6,4 @@ Tricks for OSX collected over the years.
 
 An Automator service to split a PDF up into separate files for each page.
 
-[Download](https://raw.githubusercontent.com/karlhorky/osx-tricks/master/Split%20PDF.workflow)  
+[Download](https://raw.githubusercontent.com/karlhorky/osx-tricks/master/split-pdf/Split%20PDF.zip)  
