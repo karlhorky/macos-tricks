@@ -8,7 +8,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Split PDF</string>
+				<string>Split PDF into pages</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
