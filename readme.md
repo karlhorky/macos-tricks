@@ -1,6 +1,6 @@
-# OSX Tricks
+# macOS Tricks
 
-Tricks for OSX collected over the years.
+A collection of tricks for macOS
 
 ## Split PDF
 
